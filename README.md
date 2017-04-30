@@ -3,17 +3,17 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
  # Key Features and Technologies
-Angular 4.0
-Angular CLI 1
-TypeScripts
-Bootstrap 3.7
-Obserable RxJs Service with mapping
-ng2-bootstrap
-Globale State Managment
-Lazy Loading Modules
-jQuery
-Blue color theme with SASS variables and mixin
-Section SASS classes with footer
+- Angular 4.0
+- Angular CLI 1
+- TypeScripts
+- Bootstrap 3.7
+- Obserable RxJs Service with mapping
+- ng2-bootstrap
+- Globale State Managment
+- Lazy Loading Modules
+- jQuery
+- Blue color theme with SASS variables and mixin
+- Section SASS classes with footer
 
 
 ## Development server
