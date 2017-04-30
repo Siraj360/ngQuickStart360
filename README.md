@@ -3,7 +3,7 @@
 
 # NgQuickStart360 
 
-### Angular 4.x Quick Start CL Application with basic setups
+### Angular 4.x Quick Start Application with basic setups
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
