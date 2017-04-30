@@ -6,7 +6,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
  # Key Features and Technologies
- ================================
+
 - Angular 4.0
 - Angular CLI 1
 - TypeScripts
@@ -19,7 +19,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - Blue color theme with SASS variables and mixin
 - Section SASS classes with footer
 
-![alt tag](https://github.com/ngQuickStart360/blob/master/QuickStart.PNG)
+![alt tag](https://github.com/SirajGadhia/ngQuickStart360/blob/master/QuickStart.PNG)
 
 
 ## Development server
